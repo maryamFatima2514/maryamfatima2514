@@ -3,7 +3,7 @@
 7th semester Computer Science student from Pakistan.
  I'm passionate about coding, problem-solving, and building practical projects.
 
-## 🛠 Skills
+##  Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
