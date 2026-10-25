@@ -1,4 +1,4 @@
-# Hi, I'm Maryam 👋
+# Hi, I'm Maryam 
 
 7th semester Computer Science student from Pakistan.
  I'm passionate about coding, problem-solving, and building practical projects.
